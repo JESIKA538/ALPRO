@@ -7,9 +7,9 @@ func main() {
 	var nim string
 	// fmt.Print("Masukkan nama, nim, kelas : ")
 	// fmt.Scan(&nama, &kelas, &nim)
-	fmt.Print("Masukkan nama")
+	fmt.Print("Masukkan nama panggilan: ")
 	fmt.Scanln(&nama)
-	fmt.Print("Masukkan kelas anda")
+	fmt.Print("Masukkan kelas anda: : ")
 	fmt.Scanln(&kelas)
 	fmt.Print("Masukkan nim")
 	fmt.Scanln(&nim)
